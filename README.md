@@ -11,11 +11,11 @@
 
         2. **CLONE** the forked repository, containing the boilerplate in your local machine
             
-        3. Navigate to cgi-core-track-angular-skill-check-task-i folder
+        3. Navigate to core-wave3-java-immersive-batch1-aug22 folder
 
-            `cd cgi-core-track-angular-skill-check-task-i`
+            `cd core-wave3-java-immersive-batch1-aug22`
 
-        4. Create a Springboot project inside  'cgi-core-track-angular-skill-check-task-i' folder and 
+        4. Create a Springboot project inside  'core-wave3-java-immersive-batch1-aug22' folder and 
         complete the task as per the instructions given in 'problem.md'
 
         5. Use the following command to update the index using the current content found in the 
