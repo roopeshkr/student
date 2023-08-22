@@ -1,6 +1,6 @@
 ### Angular Assessment - StudentApp
 
-Duration: 1.5 hours
+    Duration: 1.5 hours
 
 #### Objective
 
